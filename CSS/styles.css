@@ -3,7 +3,6 @@
     box-sizing: border-box;
 }
 body{
-    width: 414px;
     background-color: #E5E5E5;
 }
 .flex{
@@ -39,6 +38,7 @@ section{
     margin-bottom:125px;
 }
 .opcoes{
+    width: 100%;
     overflow-x: scroll;
 }
 .opcoes h1{
