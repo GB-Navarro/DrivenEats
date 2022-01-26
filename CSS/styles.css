@@ -85,6 +85,9 @@ section{
     font-weight: 400;
     color: #000000;
 }
+.box_opcoes div:hover{
+    border: 2px solid #32B72F;
+}
 /*----------------------------------------*/
 footer{
     width:100%;
