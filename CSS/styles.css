@@ -8,6 +8,9 @@ body{
 .flex{
     display:flex;
 }
+.greenborder{
+    border: 2px solid #32B72F;
+}
 /*----------------------------------------*/
 header{
     width: 100%;
@@ -85,9 +88,6 @@ section{
     font-weight: 400;
     color: #000000;
 }
-.box_opcoes div:hover{
-    border: 2px solid #32B72F;
-}
 /*----------------------------------------*/
 footer{
     width:100%;
@@ -111,4 +111,3 @@ button p{
     font-weight: 400;
     color:#FFFFFF;
 }
-
