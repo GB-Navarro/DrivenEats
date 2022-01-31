@@ -15,6 +15,8 @@ function colocarBordanaOpcao1dasComidas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -32,6 +34,8 @@ function colocarBordanaOpcao2dasComidas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -49,6 +53,8 @@ function colocarBordanaOpcao3dasComidas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -66,6 +72,8 @@ function colocarBordanaOpcao4dasComidas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -83,6 +91,8 @@ function colocarBordanaOpcao5dasComidas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -100,6 +110,8 @@ function colocarBordanaOpcao6dasComidas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -119,6 +131,8 @@ function colocarBordanaOpcao1dasBebidas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -136,6 +150,8 @@ function colocarBordanaOpcao2dasBebidas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -153,6 +169,8 @@ function colocarBordanaOpcao3dasBebidas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -170,6 +188,8 @@ function colocarBordanaOpcao4dasBebidas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -187,6 +207,8 @@ function colocarBordanaOpcao5dasBebidas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -204,6 +226,8 @@ function colocarBordanaOpcao6dasBebidas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -223,6 +247,8 @@ function colocarBordanaOpcao1dasSobremesas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -240,6 +266,8 @@ function colocarBordanaOpcao2dasSobremesas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -257,6 +285,8 @@ function colocarBordanaOpcao3dasSobremesas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -274,6 +304,8 @@ function colocarBordanaOpcao4dasSobremesas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -291,6 +323,8 @@ function colocarBordanaOpcao5dasSobremesas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
     }
@@ -309,10 +343,18 @@ function colocarBordanaOpcao6dasSobremesas(){
     const verificadorBebida = document.querySelector(".bebidas > .greenborder");
     const verificadorSobremesa = document.querySelector(".sobremesas > .greenborder");
     if((verificadorComida != null) & (verificadorBebida != null) & (verificadorSobremesa != null)){
+        const textoBotao = document.querySelector(".botao");
+        textoBotao.innerHTML = "Fechar pedido";
         const ativadorBotao = document.querySelector(".botao");
         ativadorBotao.classList.add("mudarAcorDobotao");
-    }
+    }   
 }
 
 /*-------------------------------------------------------------------------------*/
 
+function realizarpedido(){
+    const elemento = document.querySelector("footer > .mudarAcorDobotao")
+    if(elemento != null){
+        alert("a");
+    }
+}
